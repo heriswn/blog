@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Edit di gatsby-config.js`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Heri Setiawan`,
+      summary: `yang tinggal di Jakarta Barat.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://heriswn.github.id`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `analystid`,
     },
   },
   plugins: [
